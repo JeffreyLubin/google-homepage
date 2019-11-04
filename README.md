@@ -1,0 +1,1 @@
+8:46, 11-3-2019: This is my first ever project on The Odin Project. It's essentially just re-creating the homepage for Google. I have an intermediate understanding of how HTML & CSS works, so I don't believe that it will be super difficult, but I'll keep this updated as I got along.
