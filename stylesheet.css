@@ -68,9 +68,19 @@ border-radius: 5px;
     margin-left: 447px;
 }
 
+#text{
+    text-align: center;
+    padding-top: 20px;
+}
+
 p{
     display: inline;
-    text-align: center;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
 }
 
 .red{
