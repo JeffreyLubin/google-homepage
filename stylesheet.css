@@ -1,0 +1,38 @@
+body{
+    margin: 0 auto;
+}
+
+ul{
+    list-style: none;
+    display: block;
+    padding: 10px;
+    margin: 0px;
+}
+
+
+li{
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 30px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+
+li:hover{
+    text-decoration: underline;
+}
+
+#header{
+    height: 233px;
+    margin-top:-20px;
+}
+
+#nav_2{
+    float: right;
+}
+
+#logo{
+    display: block;
+   padding-top: 152px;
+   margin: 0 auto;
+}
