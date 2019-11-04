@@ -22,6 +22,8 @@ li{
 input{
     display: block;
     margin: 0 auto;
+    border-color: #f2f2f2;
+    border-width: 1px;
     margin-top: 100px;
     border-radius: 50px;
     width: 484px;
@@ -61,11 +63,12 @@ margin-left: 10px;
 margin-top: 37px;
 padding: 8px 18px;
 border-radius: 5px;
+
 }
 
 #home_button{
     width: 100%;
-    margin-left: 447px;
+    text-align: center;
 }
 
 #text{
@@ -76,7 +79,7 @@ border-radius: 5px;
 p{
     display: inline;
     margin: 0 auto;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 a{
@@ -86,3 +89,14 @@ a{
 .red{
     color: red;
 }
+
+#footer{
+    background:#f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+}
+
+
