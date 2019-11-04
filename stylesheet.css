@@ -18,6 +18,15 @@ li{
     font-size: 13px;
 }
 
+input{
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 50px;
+    width: 484px;
+    height: 40px;
+}
+
 li:hover{
     text-decoration: underline;
 }
@@ -35,4 +44,9 @@ li:hover{
     display: block;
    padding-top: 152px;
    margin: 0 auto;
+}
+
+#search_box{
+    height: 200px;
+    display: block;
 }
